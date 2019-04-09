@@ -1,7 +1,8 @@
-$green: green;
-body {
-    background-color:$green ;
-    P {
-        color:green;
+$red: #ff3535;
+
+h1 {
+    color:$red;
+    p {
+        color:rgba($red,0.7);
     }
 }
